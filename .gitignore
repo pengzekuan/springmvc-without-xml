@@ -1,0 +1,16 @@
+/out
+/upload
+wash-car-system.iml
+.DS_Store
+src/*.properties
+*.iml
+/.idea
+/node_modules
+package-lock.json
+/WEB-INF/dist
+/WEB-INF/jsp
+.gradle/
+/build
+/logs
+/src/main/webapp/WEB-INF/
+/src/main/resources/*.properties

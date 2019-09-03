@@ -1,0 +1,26 @@
+# 退款结果通知
+refund_result=7yG2SJo1Y2m70xiuTI-SqvjnZSS2k-LB__v9vM2GYGc
+# 提现失败通知
+withdraw_fail=925NiLauA6fYiykawuDZXsj9lmUos74Qx0gis44tzAE
+# 订单取消通知
+order_cancel=Aeb70l2O5hzH3ha0HqE4lHMIHcoWJ12Jzm9XZHd0zik
+# 审核结果通知
+review_result=H3Ct-I9M_gtEodiGv5zMd8TxCE49dorYjQTP38hPqu8
+# 订单接单通知
+order_receive=JIpFwiBK2uoM0rzMWXUQhZE0ky72IjHFWA0Q_DJNQuA
+# 提现成功通知
+withdraw_success=VIEFc4khrJ47CituAt33xt0hZjKsHJAF66iCrPCrjAE
+# 申请审核通知
+under_review=_CEDUydV_yWV7IwC10RiKMIQ8wIOSy8sj_tzRM1PEQ4
+# 退单提醒通知
+#charge_back=k_ak6-952jsquAloO5a13Y3J0rXnA-Wg1vGgxV7C7ag
+# 订单支付成功通知
+#pay_success=oSgjCW1I7HpnntjDY1fK7URWROZtYPLHdayEA4bErZ0
+# 订单状态更新通知
+order_status=sunx5sB6-GfMu7qmI8D7LlRvN73qs1-vxslvwRHQntQ
+# 会员注册成功通知
+register_success=
+# 会员充值成功通知
+topup_success=
+
+

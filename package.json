@@ -1,0 +1,32 @@
+{
+  "name": "wash-car-sys",
+  "version": "1.0.0",
+  "description": "process resources",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watch": "gulp watch",
+    "build": "gulp"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://pengzekuan@bitbucket.org/kmdyzb/wash-car.git"
+  },
+  "author": "peter",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/kmdyzb/wash-car#readme",
+  "devDependencies": {
+    "eslint": "^6.1.0",
+    "gulp": "^4.0.2",
+    "gulp-clean": "^0.4.0",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-eslint": "^6.0.0",
+    "gulp-rev": "^9.0.0",
+    "gulp-rev-collector": "^1.3.1",
+    "gulp-uglify": "^3.0.2",
+    "run-sequence": "^2.2.1"
+  }
+}

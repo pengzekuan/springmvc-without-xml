@@ -1,39 +1,24 @@
-### migration 
+### gradle
 
-### junit
+- download gradle
+- config system environment "GRADLE_HOME"
 
-```
-依赖包
-junit:junit:4.12
-org.springframework:spring-test:4.0.0.RELEASE
-```
+### resource task
 
-### 配置文件
-
-- global.properties
-- dbconfig.properties
-
-```
-cd webRoot
-cp global.properties.example global.properties
-cp dbconfig.properties.example dbconfig.properties
-```
-
-### gulp
-
-- node&npm
-
-```
-download node@10.16.0
-
-```
 - npm install
+- npm -g gulp
+- gulp && gulp watch
+
+### gradle task
+
+- gradle appRun
+- gradle run with debug
 
 ```
-cd /root
-npm install
+config remote task,listen to 5005 with socket.
+
+gradle appRunDebug, open the port 5005, and waiting to connect.
+
+run remote task, when you see message like "Connected ...", the progress will go on.
+
 ```
-
-- gulp watch
-
-- gulp
